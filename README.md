@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/danielapaz11/danielapaz11/blob/main/Laura_icono.jpg">
+    <img width="600" src="https://github.com/danielapaz11/danielapaz11/blob/main/imagen banner.png">
 </p>
 <h1 
   align="center">
