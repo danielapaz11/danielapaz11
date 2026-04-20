@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="200" src="https://github.com/danielapaz11/danielapaz11/blob/main/Laura_icono.jpg">
+</p>
 <h1 
   align="center">
   Hola 
