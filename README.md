@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 
+  align="center">
+  Hola 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  soy Daniela Paz/ Dani-dev ✨ 
+</h1> 
 
-<!--
-**danielapaz11/danielapaz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="(https://www.linkedin.com/in/laura-daniela-paz-silva-686323219/)" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@danielapaz11"/></a>
+<a href = "mailto:laura.pazext@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@danielapaz11"/></a>
+  </p>
+<br>
+<h1 align=center>Sobre mi 😃</h1>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<div align="center">
+🎓 INGENIERA DE SISTEMAS
+💻 Trabajo como coordinadora de aplicaciones en el sector de hostelero, donde me encargo del soporte, configuración y solución de problemas en sistemas que se usan     día a día. 
+    Actualmente estoy aprendiendo desarrollo y poco a poco entendiendo mejor cómo funcionan las aplicaciones por dentro, no solo desde el soporte.
+    Me gusta encontrar errores, entender por qué pasan y buscar formas de mejorar las cosas.
+🚀 En proceso de crecer como desarrolladora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto: **laura.pazext@gmail.com**  
+</div>
+
+
+<br>
+
+<h1 align=center>Tecnologías que estoy aprendiendo👨🏻‍💻</h1>
+<!--tech stack icons-->
+<div align=center>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mysql,mongodb,git,github,docker,vscode&theme=light" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+  </div> 
+<br>
+<div align=center>
+
+------
+
+Last Edited on: 21/04/2026
