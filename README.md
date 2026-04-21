@@ -17,12 +17,14 @@
 <!--Intro start-->
 
 <div align="center">
-🎓 INGENIERA DE SISTEMAS
+🎓 Ingenieria de sistemas
+<br>
 💻 Trabajo como coordinadora de aplicaciones en el sector de hostelero, donde me encargo del soporte, configuración y solución de problemas en sistemas que se usan     día a día. 
     Actualmente estoy aprendiendo desarrollo y poco a poco entendiendo mejor cómo funcionan las aplicaciones por dentro, no solo desde el soporte.
     Me gusta encontrar errores, entender por qué pasan y buscar formas de mejorar las cosas.
+<br> 
 🚀 En proceso de crecer como desarrolladora.
-
+<br>
 📫 Contacto: **laura.pazext@gmail.com**  
 </div>
 
@@ -36,10 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,mysql,mongodb,git,github,docker,vscode&theme=light" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+
   </div> 
 <br>
 <div align=center>
